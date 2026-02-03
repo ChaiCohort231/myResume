@@ -45,6 +45,7 @@ The resume layout is inspired by the sample provided in the assignment and inclu
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/resume-html.git
+   git clone https://github.com/ChaiCohort231/resume-html.git
    ```
+
 # myResume
